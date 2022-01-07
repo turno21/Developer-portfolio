@@ -53,12 +53,36 @@ h1{
     border-left: 7px solid;
     border-image: linear-gradient(blue, cyan);
     border-image-slice: 1;
+    background-color: powderblue;
 }
 #full{
     border-left: 7px solid;
     border-image: linear-gradient(yellow, cyan);
     border-image-slice: 1;
+    background-color: palegreen;
 }
 footer p{
     text-align: center;
+}
+.Mission-heading{
+    text-align: center;
+    color: navy;
+}
+.mission-color{
+    color: orangered;
+}
+#header{
+    border-left: 5px solid;
+    border-image: linear-gradient(salmon,red);
+    padding-left: 10px;
+    border-image-slice: 6;
+}
+#goals{
+    border-left: 7px solid;
+    border-image: linear-gradient(pink,violet);
+    border-image-slice: 1;
+    background-color: palegoldenrod;
+}
+.bg-foot{
+    background-color: yellowgreen;
 }
